@@ -1,0 +1,26 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 30px;
+}
+
+h1 {
+  text-align: center;
+  color: saddlebrown;
+}
+
+h2 {
+  color: blue;
+}
+
+p {
+  padding-right: 50%;
+}
