@@ -1,5 +1,5 @@
 require 'nokogiri'
-require 'pry'
+# require 'pry'
 require 'open-uri'
 require 'watir'
 require 'chromedriver-helper'
